@@ -35,8 +35,25 @@ https://github.com/devananda6200/Gesture-Controller-for-Youtube
 - Automatically activates your YouTube browser tab.
 
 ---
+## 📁 Project Structure
 
-## 📦 Requirements
+- `handtracking.py`:  
+  A utility module that wraps MediaPipe's hand detection and landmark drawing functionality. This keeps your code modular and reusable.
+
+- `gesture_control.py`:  
+  The core logic for recognizing hand gestures based on finger positions and triggering the appropriate keyboard shortcuts using PyAutoGUI.
+
+- `main.py`:  
+  The main entry point that integrates video capture, hand tracking, and gesture recognition. It also displays the live webcam feed with gesture labels.
+
+---
+
+## ▶️ How to Run
+
+### 1. 🛠 Install Dependencies
+
+Make sure you have Python 3.10 installed. Then install the required libraries:
 
 ```bash
 pip install opencv-python mediapipe pyautogui pygetwindow
+python gesture_control.py
