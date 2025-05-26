@@ -22,8 +22,8 @@ https://github.com/devananda6200/Gesture-Controller-for-Youtube
 
 ## 📸 Demo
 
-![Gesture Demo GIF](demo.gif)  
-*(Add your own GIF or YouTube link here!)*
+![[https://youtu.be/OaB2oBqhvmM](demo.gif)  ]
+
 
 ---
 
