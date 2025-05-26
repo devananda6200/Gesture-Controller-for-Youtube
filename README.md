@@ -22,7 +22,7 @@ https://github.com/devananda6200/Gesture-Controller-for-Youtube
 
 ## 📸 Demo
 
-![[https://youtu.be/OaB2oBqhvmM](https://youtu.be/OaB2oBqhvmM)  ]
+![https://youtu.be/OaB2oBqhvmM](https://youtu.be/OaB2oBqhvmM) 
 
 
 ---
